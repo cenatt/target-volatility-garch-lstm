@@ -13,6 +13,6 @@ Comparison of GARCH(1,1) and LSTM neural networks for volatility forecasting in 
 ## Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourusername/target-volatility-garch-lstm.git
+git clone https://github.com/cenatt/target-volatility-garch-lstm.git
 cd target-volatility-garch-lstm
 pip install -r requirements.txt
